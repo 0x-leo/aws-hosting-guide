@@ -30,4 +30,4 @@ Follow these steps to launch an Amazon EC2 instance:
 
 9. Use SSH to connect to your EC2 instance. Open a terminal and use the following command: `ssh -i /path/to/your/private-key.pem ec2-user@your-ec2-instance-ip`
 
-10. Once you're connected to your EC2 instance, navigate to the directory where you copied the bot binary. Then, use the terminal to run your arbitrage bot: ( ./your_bot_binary )
+10. Once you're connected to your EC2 instance, navigate to the directory where you copied the bot binary. Then, use the terminal to run your arbitrage bot: `./your_bot_binary`
