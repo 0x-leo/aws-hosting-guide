@@ -1,4 +1,4 @@
-# AWS hosting instructions
+# AWS deployment guide
 =========================
 
 1. Sign up for an AWS account 
